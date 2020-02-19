@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>maven-example-1 - Checkstyle report</title>
+    <link>http://www.in28minutes.com</link>
+    <description>maven-example-1 - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2020</copyright>
+    <item>
+      <title>File: 16,
+             Errors: 488,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://www.in28minutes.com/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://www.in28minutes.com/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.AmountImpl.java">com/in28minutes/junit/model/AmountImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  42
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.business.ClientBO.java">com/in28minutes/junit/business/ClientBO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.Collateral.java">com/in28minutes/junit/model/Collateral.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.Product.java">com/in28minutes/junit/model/Product.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.ProductType.java">com/in28minutes/junit/model/ProductType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.ClientImpl.java">com/in28minutes/junit/model/ClientImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  104
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.CollateralImpl.java">com/in28minutes/junit/model/CollateralImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  55
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.Currency.java">com/in28minutes/junit/model/Currency.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.Client.java">com/in28minutes/junit/model/Client.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.business.ClientBOImpl.java">com/in28minutes/junit/business/ClientBOImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  50
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.ClientType.java">com/in28minutes/junit/model/ClientType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  28
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.business.exception.DifferentCurrenciesException.java">com/in28minutes/junit/business/exception/DifferentCurrenciesException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.Amount.java">com/in28minutes/junit/model/Amount.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.CollateralType.java">com/in28minutes/junit/model/CollateralType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  23
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.helper.StringHelper.java">com/in28minutes/junit/helper/StringHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  30
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.in28minutes.com/checkstyle.html#com.in28minutes.junit.model.ProductImpl.java">com/in28minutes/junit/model/ProductImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  73
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

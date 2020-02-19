@@ -11,7 +11,7 @@
 	<parent>
 		<groupId>com.curso</groupId>
 		<artifactId>practica</artifactId>
-		<relativePath>../../practica</relativePath>
+		<relativePath>../practica</relativePath>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<name>maven-example-1</name>
